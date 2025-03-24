@@ -20,7 +20,7 @@ Context AI is a modern web application leveraging Next.js to enhance development
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/context-ai.git
+git clone https://github.com/yourusername/WebChatAI.git
 cd context-ai
 npm install
 npm run dev
