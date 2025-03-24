@@ -8,7 +8,7 @@ Context AI is a modern web application leveraging Next.js to enhance development
 
 ## ✨ Features
 
-- **Next.js 13+ App Router**
+- **Next.js 14+ App Router**
 - **TypeScript Support**
 - **Optimized Performance & SEO**
 - **Responsive Design**
